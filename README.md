@@ -4,4 +4,4 @@ This webpage is showing the top hottest games in Twitter for the past week. User
 
 Then a static website is deployed by using php, flask and heroku.
 
-You can find the [website](https://games-app-hotness.herokuapp.com/index.html). It shows DomiNations is the most hottest games in Twitter for that week
+You can find the [website](https://games-app-hotness.herokuapp.com/index.html). It shows DomiNations is the most hottest games in Twitter for that week.
